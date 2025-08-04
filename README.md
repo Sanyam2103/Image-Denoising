@@ -1,8 +1,5 @@
-Here’s a `README.md` file tailored for your uploaded Jupyter Notebook titled **"Medical\_denoising.ipynb"**. This assumes the notebook performs medical image denoising using deep learning, which is a common use case. You can customize the details below if needed before pushing it to GitHub.
 
----
 
-### 📄 `README.md`
 
 ```markdown
 # 🏥 Medical Image Denoising with Deep Learning

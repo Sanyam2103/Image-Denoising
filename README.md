@@ -1,7 +1,7 @@
 
 
 
-```markdown
+
 # 🏥 Medical Image Denoising with Deep Learning
 
 This repository contains a Jupyter Notebook for denoising medical images using deep learning techniques. The goal is to enhance image quality by removing noise, which is crucial for better diagnosis and analysis in medical imaging.
@@ -32,7 +32,6 @@ Make sure you have the following installed:
 - Python 3.8+
 - Jupyter Notebook
 - Required Python packages:  
-```
 
 pip install numpy matplotlib tensorflow scikit-image
 
